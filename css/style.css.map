@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACJ,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,gBAAgB,EAAE,IAAI;;;ACH1B,OAAQ;EACJ,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,gBAAgB,EAAE,IAAI;;;ACH1B,OAAQ;EACJ,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,gBAAgB,EAAE,OAAO",
+"sources": ["../scss/page-1.scss","../scss/page-2.scss","../scss/page-3.scss"],
+"names": [],
+"file": "style.css"
+}
